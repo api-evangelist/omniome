@@ -29,6 +29,9 @@ description: Omniome was a San Diego genomics company that developed Sequencing 
   in 2021, and its site now redirects to pacb.com. It builds laboratory sequencing instruments
   and chemistry rather than a public developer platform, and exposes no public API surface.
 url: https://raw.githubusercontent.com/api-evangelist/omniome/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "It builds laboratory sequencing instruments and chemistry rather than a public developer platform, and exposes no public API surface."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
